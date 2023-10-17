@@ -17,6 +17,8 @@ target/
 
 # Angular
 
+package-lock.json
+
 .DS_STORE
 
 /dist/
