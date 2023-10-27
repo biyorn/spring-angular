@@ -1,1 +1,1 @@
-# spring-angular
+# E-Commerce project
